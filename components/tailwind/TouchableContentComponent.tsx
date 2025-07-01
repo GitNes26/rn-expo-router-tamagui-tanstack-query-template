@@ -1,9 +1,9 @@
 import React from 'react';
 import { Pressable, TouchableOpacity } from 'react-native';
-import { styled } from 'tamagui';
+// import { styled } from 'tamagui';
 // import { styled } from 'nativewind';
 
-const StyledPressable = styled(Pressable);
+// const StyledPressable = styled(Pressable);
 
 // export const Circle = styled(Pressable, {
 //   borderRadius: 100_000_000,
