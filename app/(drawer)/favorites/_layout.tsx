@@ -15,7 +15,7 @@ const Layout = () => {
             headerTitleStyle: {
                fontWeight: '800',
             },
-            title: 'Inicio',
+            title: 'Favoritos',
             headerLeft: () => <DrawerToggleButton tintColor={theme.color.get()} />,
          }}></Stack>
    );
